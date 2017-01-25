@@ -1,0 +1,10 @@
+<TextGame>
+
+    <MenuScene>
+        <Button>Start</Button>
+        <Button>Settings</Button>
+        <Button>Exit</Button>
+    </MenuScene>
+
+
+</TextGame>
